@@ -1,0 +1,27 @@
+{
+  "name" : "nodebot-retaliation-driver",
+  "version" : "0.0.1",
+  "author": "Marzee Labs <info@gmarzeelabs.com>",
+  "description": "A simple HTTP server to wrap Retaliation.py commands.",
+  "contributors": [
+    {
+      "name": "Nuno Veloso",
+      "email": "nuno@marzeelabs.org",
+      "twitter": "@nunoveloso"
+    },
+    {
+      "name": "Peter Vanhee",
+      "email": "peter@marzeelabs.org",
+      "twitter": "@pvhee"
+    }
+  ],
+  "scripts": {
+    "start": "node server.js",
+  },
+  "keywords": [
+    "nodebotsday",
+    "thunder missile launcher",
+    "wrapper"
+  ],
+  "license": "MIT"
+}
